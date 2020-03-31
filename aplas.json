@@ -1,20 +1,24 @@
 {
-  "id": "talent_fruit",
-  "name": "Talent Fruit",
-  "categoryId": "services",
-  "description": "Virtual exuding interface",
-  "investment_24m": "666",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "25",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "391",
-  "deployment_date": "29/6/16",
-  "end_of_maintenance": "11/5/17",
-  "department": "Marketing",
-  "status": "Decomissioned",
-  "end_of_life": "7/5/18",
-  "months_to_renew_support": "11",
-  "sme_email": "Gordy.Munnion@memento.net.au",
-  "investment_number": "250"
+  "applications": [
+    {
+      "id": "talent_fruit",
+      "name": "Talent Fruit",
+      "categoryId": "services",
+      "description": "Virtual exuding interface",
+      "investment_24m": "666",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "25",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "391",
+      "deployment_date": "29/6/16",
+      "end_of_maintenance": "11/5/17",
+      "department": "Marketing",
+      "status": "Decomissioned",
+      "end_of_life": "7/5/18",
+      "months_to_renew_support": "11",
+      "sme_email": "Gordy.Munnion@memento.net.au",
+      "investment_number": "250"
+    }
+  ]
 }
