@@ -25,7 +25,6 @@
           "name": "INT-219",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
-          "sourceApplicationId": "talent_fruit",
           "targetApplicationId": "hyperlocal",
           "logical_server": "A2A",
           "status_color": "#00FF00",
